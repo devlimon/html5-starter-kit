@@ -9,5 +9,8 @@ it includes:
 <li><a href="https://sweetalert2.github.io/" target="_blank" class="list-group-item">SweetAlert2 10.15.5</a></li>
 <li><a href="https://github.com/CodeSeven/toastr" target="_blank" class="list-group-item">Toastr 2.1.3</a></li>
 </li>
-<br><br>
+<br>
+to get, just type the below command in your termianal and hit enter.
+<code>git clone https://github.com/devlimon/html5-starter-kit.git </code>
+<br>
 note: you will able to add all these vendors with one css and one js bundle file or separately to your project. you are always welcome to create pull request if you have better suggestions.
