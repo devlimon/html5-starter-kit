@@ -10,4 +10,4 @@ it includes:
 <li><a href="https://github.com/CodeSeven/toastr" target="_blank" class="list-group-item">Toastr 2.1.3</a></li>
 </li>
 <br><br>
-note: you will able to add all these with one css and js bundle file or separately
+note: you will able to add all these vendors with one css and one js bundle file or separately to your project
