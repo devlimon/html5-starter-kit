@@ -10,7 +10,7 @@ it includes:
 <li><a href="https://github.com/CodeSeven/toastr" target="_blank" class="list-group-item">Toastr 2.1.3</a></li>
 </li>
 <br>
-to get, just type the below command in your terminal and hit enter.<br><br>
+to get it, just type the below command in your terminal and hit enter.<br><br>
 
 ```bash
 git clone https://github.com/devlimon/html5-starter-kit.git
