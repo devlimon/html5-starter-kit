@@ -12,5 +12,5 @@ it includes:
 <br>
 to get, just type the below command in your termianal and hit enter.
 <code>git clone https://github.com/devlimon/html5-starter-kit.git </code>
-<br>
+<br><br>
 note: you will able to add all these vendors with one css and one js bundle file or separately to your project. you are always welcome to create pull request if you have better suggestions.
