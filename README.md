@@ -7,6 +7,7 @@ it includes:
 <li><a href="https://popper.js.org/docs/v2/" target="_blank" class="list-group-item">popperjs 2.9.3</a></li>
 <li><a href="https://jquery.com/" target="_blank" class="list-group-item">jQuery v3.6.0</a></li>
 <li><a href="https://sweetalert2.github.io/" target="_blank" class="list-group-item">SweetAlert2 11.1.4</a></li>
+
 <li><a href="https://github.com/CodeSeven/toastr" target="_blank" class="list-group-item">Toastr 2.1.3</a></li>
 </li>
 <br>
